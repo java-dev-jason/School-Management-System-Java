@@ -1,32 +1,45 @@
-# School Management System – Java
+# 🏫 School-Management-System-Java (Class Project)
 
-A simple Java desktop application for managing student and school data with a role-based login system.
+A basic Java console application for managing student data.  
+This project was developed **as part of a collaborative assignment** in our vocational training class.
 
-## 🧠 Features
-- Login system with 3 roles: Teacher, Admin, and School Management
-- Add, delete, and view students
-- Manage teacher and admin accounts
-- View student details: ID, first name, last name, birth date, and email
-- Organize and manage students by class
-- Create and delete classes
-- Graphical User Interface built with Java Swing
+---
 
-## 🛠️ Technologies
-- Java (Standard Edition)
-- Java Swing (GUI)
-- Object-Oriented Programming principles
+## ⚠️ Disclaimer
 
-## 🔒 Login
-Simple role-based login system with hardcoded credentials (for demonstration).  
-Future improvements could include database integration.
+This project was created **jointly with classmates** during the early stages of our software development training.
 
-## 📁 Project Structure
-- `src/` – All Java source files
-- `screenshots/` – UI screenshots
-- `README.md` – Project overview and documentation
+> **Please note:**  
+> The code is **not well-structured**, lacks proper error handling, and does **not follow best practices**.  
+> It should be viewed purely as an early learning exercise — not a representation of production-ready software.
 
-## 🖼️ Screenshots
-Example UI views are available in the `screenshots/` folder.
+---
 
-## 👨‍💻 Author
-Jason Belzek – Aspiring Java developer currently in training. Passionate about clean code, problem-solving, and building real-world tools.
+## 💡 Project Goals
+
+- Learn the basics of object-oriented programming
+- Practice working with user input (Scanner)
+- Manage simple data structures (ArrayLists, basic file I/O)
+- Collaborate in a team setting
+
+---
+
+## 🙋 Authors
+This project was built by students in class XYZ as part of a school assignment.
+Supervised and submitted by: Jason Belzek
+---
+
+## 🛠️ Technologies Used
+
+- Java 17
+- Console input via `Scanner`
+- ArrayLists
+- Basic procedural structure
+
+---
+
+## 🚀 Running the Application
+
+```bash
+javac Main.java
+java Main
